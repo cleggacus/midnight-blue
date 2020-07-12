@@ -24,3 +24,7 @@ mv midnight-blue ~/.vscode/extensions
 * Restart / open vscode
 * Open command palette ( ctrl + shiift + p )
 * Select Midnight Blue
+
+#### Firefox theme
+
+[Click here to get firefox theme](https://addons.mozilla.org/en-US/firefox/addon/dark-midnight-blue/)
