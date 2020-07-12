@@ -18,13 +18,17 @@
 		"sideBar.border": "#101625",
 		"editorGroup.border": "#101625",
 		"editorGroupHeader.tabsBorder": "#101625",
-		"editorGroupHeader.border": "#101625",
-		"editor.selectionBackground": "#161d2e",
+        "editorGroupHeader.border": "#101625",
+        "editor.selectionBackground": "#161d2e",
+        "tab.border":"#161d2e",
+        "tab.inactiveBackground": "#101625",
 		"input.background": "#101625",
 		"input.border": "#101625",
 		"scrollbarSlider.background": "#101625",
 		"scrollbarSlider.hoverBackground": "#101625",
         "scrollbarSlider.activeBackground": "#15aaaa",
+        "quickInput.background": "#101625",
+        "notifications.background": "#101625"
 	},
 	"tokenColors": [
         {
